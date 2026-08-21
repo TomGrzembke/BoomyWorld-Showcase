@@ -23,7 +23,7 @@ Play [here](https://poki.com/en/preview/d44000dd-ef21-42f4-b05f-0b87f72e7e3c/f46
 - QA and bugfixing/optimizing play time with Poki statistics
 - Sound Design: made 16+ unique sounds
 - Tools for Portrait vs Landscape mode to allow separate balancing for both.
-<img width="480" height="225" alt="LandscapeTurnshowcase" src="https://github.com/user-attachments/assets/03243c01-0f12-4cdb-966d-d8038132d0f7" />
+<img width="480" height="225" alt="LandscapeTurnshowcase" src="https://github.com/user-attachments/assets/15ea8ddb-f151-45c5-8818-59a91b6ad703" />
 
 # Additional Info
 - Release date: 24.08.2026
