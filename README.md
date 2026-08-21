@@ -14,6 +14,7 @@ Help Granny across the street with a grenade, for example.
 Play [here](https://poki.com/en/preview/d44000dd-ef21-42f4-b05f-0b87f72e7e3c/f46d49f4-c0d1-4d43-9f56-cbcf6376a46e) or on mobile! 
 
 <img width="270" height="270" alt="BoomyWorldShowReel" src="https://github.com/user-attachments/assets/58409d02-4998-4491-b486-8a3659da40f3" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="265" height="270" alt="image" src="https://github.com/user-attachments/assets/cf8ecf18-146a-40d1-81e4-13be377fde40" /> 
 
 # My Responsibility
