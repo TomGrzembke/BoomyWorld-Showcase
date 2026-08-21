@@ -2,7 +2,7 @@
 .. is a 2D action game about manipulating objects with explosions. 
 Help Granny across the street with a grenade, for example.
 
-<img width="1024" height="267" alt="Logo_Transparent_Long-1-2048x584" src="https://github.com/user-attachments/assets/379307bf-cc5b-412e-a849-d9776a425b09" />
+<img width="717" height="187" alt="Logo_Transparent_Long-1-2048x584" src="https://github.com/user-attachments/assets/379307bf-cc5b-412e-a849-d9776a425b09" />
 
 
 - Created in Unity Engine.
