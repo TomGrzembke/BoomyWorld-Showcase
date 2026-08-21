@@ -18,11 +18,12 @@ Play [here](https://poki.com/en/preview/d44000dd-ef21-42f4-b05f-0b87f72e7e3c/f46
 <img width="265" height="270" alt="image" src="https://github.com/user-attachments/assets/cf8ecf18-146a-40d1-81e4-13be377fde40" /> 
 
 # My Responsibility
-- Tools for Portrait vs Landscape mode
-- Nurtured Poki Feedback 
 - Built 2 levels from the ground up: Mosquito and Turmspringer
+- Nurtured and applied Poki Feedback 
 - QA and bugfixing/optimizing play time with Poki statistics
 - Sound Design: made 16+ unique sounds
+- Tools for Portrait vs Landscape mode to allow separate balancing for both.
+<img width="480" height="225" alt="LandscapeTurnshowcase" src="https://github.com/user-attachments/assets/03243c01-0f12-4cdb-966d-d8038132d0f7" />
 
 # Additional Info
 - Release date: 24.08.2026
