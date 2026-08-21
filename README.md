@@ -4,6 +4,7 @@ Help Granny across the street with a grenade, for example.
 
 <img width="717" height="187" alt="Logo_Transparent_Long-1-2048x584" src="https://github.com/user-attachments/assets/379307bf-cc5b-412e-a849-d9776a425b09" />
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 - Created in Unity Engine.
 - 27k+ Players so far. 
@@ -17,7 +18,7 @@ Play [here](https://poki.com/en/preview/d44000dd-ef21-42f4-b05f-0b87f72e7e3c/f46
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="265" height="270" alt="image" src="https://github.com/user-attachments/assets/cf8ecf18-146a-40d1-81e4-13be377fde40" /> 
 
-# My Responsibility
+# My Responsibilities
 - QA and bugfixing/optimizing play time with Poki statistics
 - Sound Design: made 16+ unique sounds
 - Tools for Portrait vs Landscape mode to allow separate balancing for both.
