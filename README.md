@@ -20,6 +20,10 @@ Play [here](https://poki.com/en/preview/d44000dd-ef21-42f4-b05f-0b87f72e7e3c/f46
 # My Responsibility
 - Tools for Portrait vs Landscape mode
 - Nurtured Poki Feedback 
-- Sound Design: made 16+ unique sounds
-- Built 2 levels from the ground up: Mosquito and Turspringer
+- Built 2 levels from the ground up: Mosquito and Turmspringer
 - QA and bugfixing/optimizing play time with Poki statistics
+- Sound Design: made 16+ unique sounds
+
+# Additional Info
+- Release date: 24.08.2026
+- Team Size: 4
