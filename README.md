@@ -1,4 +1,4 @@
-# BoomyWorld
+# Boomy World
 .. is a 2D action game about manipulating objects with explosions. 
 Help Granny across the street with a grenade, for example.
 
