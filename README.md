@@ -7,7 +7,7 @@ Help Granny across the street with a grenade, for example.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 - Created in Unity Engine.
-- 500k+ Players so far. 
+- 1.2 million+ Players so far. 
 - Target Audience/Platform: [Poki](https://poki.com/), so 7-16 year olds.
 - The Game is developed by [Obscure Interactive](https://obscure-interactive.com/), and I worked on it for 10 weeks.
 
